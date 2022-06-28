@@ -1,5 +1,5 @@
 // S C R I P T  O R I  B Y  @BochilGaming 🔭
-// M A D E  B Y  Letta - Sama 🐰  
+// M A D E  B Y  Kenichi - MD 😼 
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
@@ -11,6 +11,8 @@
 // • The.Sad.Boy01
 // • Rasel comel
 // • Xtreshe (Beban)
+// • Kenichi
+// • Mahesa And Friends
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -44,37 +46,37 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/memek_basah'
-global.sgh = 'https://github.com/DanzGantevk75'
-global.sgc = 'https://chat.whatsapp.com/EmCBNEjwdOcHzRlGCXKoxK'
-global.sdc = '-'
-global.snh = 'https://nhentai.net/g/365296/'
+global.sig = 'https://www.instagram.com/kenibotz_kenichi'
+global.sgh = 'https://github.com/Kenichi-BOTZ'
+global.sgc = 'https://chat.whatsapp.com/LBHHmgLnr9Y5q7ZkhGikkI'
+global.sdc = 'https://discord.gg/pQyvGSreGD'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '088270863279'
-global.povo = '-'
-global.pgopay = '088270863279'
-global.ppulsa = '088270863279'
-global.ppulsa2 = '089519269447'
-global.psaweria = '-'
+global.pdana = '085161533232'
+global.povo = '085161533232'
+global.pgopay = '085161533232'
+global.ppulsa = '085161533232'
+global.ppulsa2 = '0895388375000'
+global.psaweria = 'https://saweria.co/HansCh'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62882708632799'
-global.nomorown = '6288270863279'
-global.namebot = 'DanzBot-MD あ'
-global.nameown = 'Danzz'
+global.nomorbot = '6285161533232'
+global.nomorown = '62895388375000'
+global.namebot = 'KeniBotz-MD あ'
+global.nameown = 'Kenichi'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288270863279'],
-  ['6288270863279'],
-  ['6288270863279'],
-  ['6288270863279', 'Danzz', true]
+  ['62895388375000'],
+  ['62895388375000'],
+  ['62895388375000'],
+  ['62895388375000', 'Kenichi', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['62895388375000'] // Want some help?
+global.prems = ['62895388375000'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -115,26 +117,26 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 DanzBot-MD あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Danzz - 𝗕𝗢𝗧˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Danzz 𝗕𝗢𝗧'
+global.wm = '                「 KeniBotz-MD あ⁩ 」  Whatsapp : wa.me/62895388375000  Gmail: kenichiytch@gmail.com ' //Main Watermark
+global.wm2 = ' Kenichi Project '
+global.wm3 = '⫹⫺ KeniBotz MultiDevice'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = global.wm
+global.author = Kenichi ILY😗
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg'
-global.thumbbc = 'https://telegra.ph/file/d389f4acafac741f6592c.jpg' //For broadcast
+global.thumb = 'https://telegra.ph/KenichiLogos-06-28' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/KenichiLogos-06-28'
+global.thumbbc = 'https://telegra.ph/bclogoskenibotz-06-28' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== TEXT ==============*/
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
-global.eror = '```404 error```'
+global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading Bentar Yank😗😗♥️...```'
+global.eror = '```Aduh Error Yank😣😣, Maaf Ya Kirim Bukti SS Aja Ke Nomor Ownerku Lewat Link Wa Ini Ya Sayank😗 https://wa.me/62895388375000 ```'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -146,7 +148,7 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '99999999999999' // default 10TB
+global.fsizedoc = '9999999999' // default 10TB
 global.fpagedoc = '999'
 
 /*=========== HIASAN ===========*/
@@ -173,7 +175,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '.'
+global.stickpack = '「KeniBotz Sticker あ⁩ 」'
 global.stickauth = `☂︎\nD\na\nn\nz\nz\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
