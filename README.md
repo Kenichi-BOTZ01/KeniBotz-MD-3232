@@ -1,37 +1,37 @@
 <p align="center">
-    <img src="https://telegra.ph/file/4ee6b246627f8ac4dbcff.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://github.com/Kenichi-BOTZ/KenichiLogos" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">KannaBOT - MD</h1>
+<h1 align="center">KeniBOTZ - MD</h1>
 <p align="center">
-  <a href="https://github.com/Jikarinka"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Letta;Re-Recode+By+Jikarinka;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/Jikarinka"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=KeniBOTZ+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Kenichi;Re-Recode+By+Letta;Re-Recode+By+Jikarinka;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
- <a href="#"><img title="KannaBOT" src="https://img.shields.io/badge/Kanna BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="KeniBOTZ" src="https://img.shields.io/badge/-KeniBotz-brightgreen?style=for-the-badge&logo=appveyor"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Jikarinka"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kanna-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Jikarinka"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kenichi-red?style=for-the-badge&logo=appveyor"></a>
 </p>
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6285334930628">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+  <a href="https://wa.me/62895388375000">
+    <img align="left" alt="KENICHI | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@kyo.tang">
-    <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
+  <a href="https://www.tiktok.com/@kenichiytch">
+    <img align="left" alt="KENICHI | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/kontol_elite/">
-    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
+  <a href="https://www.instagram.com/kenibotz_kenichi/">
+    <img align="left" alt="KENICHI | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto: papamamaakupulang@gmail.com">
-    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
+  <a href="mailto: kenichiytch@gmail.com">
+    <img align="left" alt="KENICHI | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6285334930628"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281336990781) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285334930628) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn) 
+## ```Whatsapp``` <a href="https://wa.me/62895388375000"> <img align="left" alt="Kenichi | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285161533232) 
+[![OWNER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895388375000) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LBHHmgLnr9Y5q7ZkhGikkI) 
 ---------
 
 #### KELEBIHAN 📍
@@ -69,7 +69,7 @@
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jikarinka/KannaBOT-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kenichi-BOTZ01/KeniBotz-MD-3232)
 
 | BuildPack | LINK |
 |--------|--------|
@@ -83,8 +83,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Jikarinka/Kannabotv2/
-$ cd Kannabotv2
+$ git clone https://github.com/Kenichi-BOTZ01/KeniBotz-MD-3232/
+$ cd KeniBotz-MD-3232
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/Jikarinka/Kannabotv2#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -120,14 +120,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & KANNABOT-MD]
+[ INSTALLING NODEJS & KeniBotz-MD]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Jikarinka/kannabotv2/
-cd Kannabotv2
+git clone https://github.com/Kenichi-BOTZ01/KeniBotz-MD-3232/
+cd KeniBotz-MD-3232
 npm install
 npm update
 ```
@@ -139,11 +139,11 @@ npm update
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
 * Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
 * Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
-* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
+* Download And Install ImageMagick [`Click Here`](https://imagehttps://github.com/kenichi-botz01/kenibotz-md-3232/
 
-```bash
-git clone https://github.com/Jikarinka/kannabotv2/
-cd Kannabotv2
+```
+git clone https://github.com/Kenichi-BOTZ01/KeniBotz-MD-3232/
+cd KeniBotz-MD-3232
 npm install
 npm update
 ```
@@ -243,7 +243,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`KannaChan`](http://github.com/kannachann)
 
 ## ```Recode By 🐾```
-[![kannachann](https://github.com/Jikarinka.png?size=100)](http://github.com/kannachann)
+[![Kenichi](https://github.com/Kenichi-BOTZ.png?size=100)](http://github.com/Kenichi-BOTZ)
 
 # ```Contributor 🔭```
 * [`The.Sad.Boy01`](https://github.com/Kangsad01)
