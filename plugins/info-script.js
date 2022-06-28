@@ -3,13 +3,13 @@ let ye = `@${m.sender.split`@`[0]}`
 let esce = `
 Knp kak ${ye} Lagi Nyari Sc Ya? 
 
-_MINTA AJA SAMA OWNER KAK FREE, SC TIDAK DI PERJUAL BELIKAN_
+_MINTA AJA SAMA OWNER KAK CUMAN 10K, SEKEDAR TAMBAHAN BELI DEVICE BARU BUAT BOT DOANG KAK😗_
 
 WHATSAPP OWNER :
-https://wa.me/6288270863279
+https://wa.me/62895388375000
 
 JOIN GC BOT:
-https://chat.whatsapp.com/EmCBNEjwdOcHzRlGCXKoxK
+https://chat.whatsapp.com/LBHHmgLnr9Y5q7ZkhGikkI
 
 📍 *N o t e :* 
 • Jangan lupa minta izin owner sebelum menggunakan scriptnya kak!
